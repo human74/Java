@@ -1,0 +1,10 @@
+SiłyWojskowe {PozycjaX=1, PozycjaY=0, WektorRuchu='16', Pułap=0, Predkosc=25, Dlugosc=5, Szerokosc=5, liczba=1, Odleglosc=1, CzyOpancerzony=true}
+SiłyWojskowe {PozycjaX=1, PozycjaY=0, WektorRuchu='16', Pułap=0, Predkosc=25, Dlugosc=5, Szerokosc=5, liczba=1, Odleglosc=1, CzyOpancerzony=true}
+SiłyWojskowe {PozycjaX=1, PozycjaY=0, WektorRuchu='16', Pułap=0, Predkosc=25, Dlugosc=5, Szerokosc=5, liczba=1, Odleglosc=1, CzyOpancerzony=true}
+SiłyWojskowe {PozycjaX=1, PozycjaY=0, WektorRuchu='16', Pułap=0, Predkosc=25, Dlugosc=5, Szerokosc=5, liczba=1, Odleglosc=1, CzyOpancerzony=true}
+Sportowcy {PozycjaX=0, PozycjaY=0, WektorRuchu='16', Pułap=1, Predkosc=78, Dlugosc=2, Szerokosc=3, liczba=1, Odleglosc=1, CzySportowy=true}
+Sportowcy {PozycjaX=0, PozycjaY=0, WektorRuchu='16', Pułap=1, Predkosc=78, Dlugosc=2, Szerokosc=3, liczba=1, Odleglosc=1, CzySportowy=true}
+Sportowcy {PozycjaX=0, PozycjaY=0, WektorRuchu='16', Pułap=1, Predkosc=78, Dlugosc=2, Szerokosc=3, liczba=1, Odleglosc=1, CzySportowy=true}
+Modelarze {PozycjaX=3, PozycjaY=1, WektorRuchu='16', Pułap=0, Predkosc=74, Dlugosc=5, Szerokosc=2, liczba=10, Odleglosc=3, CzyRecznieRoboty=true}
+Modelarze {PozycjaX=3, PozycjaY=1, WektorRuchu='16', Pułap=0, Predkosc=74, Dlugosc=5, Szerokosc=2, liczba=10, Odleglosc=3, CzyRecznieRoboty=true}
+Modelarze {PozycjaX=3, PozycjaY=1, WektorRuchu='16', Pułap=0, Predkosc=74, Dlugosc=5, Szerokosc=2, liczba=10, Odleglosc=3, CzyRecznieRoboty=true}
